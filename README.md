@@ -1,7 +1,7 @@
 # 📊 Miniprojeto - Análise Exploratória de Dados de Varejo
 
 **Autor:** Daniel Regis — Turma 2  
-**Curso:** Análise de Dados com Python
+**Disciplina:** Projeto III — Análise Exploratória de Dados Utilizando Python
 
 ---
 
@@ -22,7 +22,7 @@ Miniprojeto_DanielRegis_T2/
 │   ├── df_limpo.csv             # Base tratada e limpa (gerada pelo notebook)
 │   └── Projeto III - ...pdf     # Enunciado do projeto
 ├── Miniprojeto_Varejo_AED.ipynb # Notebook principal com toda a análise
-└── README_DanielRegis_T2.md     # Este arquivo
+└── README.md                    # Este arquivo
 ```
 
 ---
