@@ -49,6 +49,13 @@ Também é melhor trocar `CL_EC` de número para palavra, porque isso torna o gr
 - os gráficos de `CL_GENERO` e `CL_EC` devem aparecer separadamente.
 - as vendas por dia da semana mostram o comportamento da base ao longo da semana.
 
+## Principais insights
+
+- A maior parte das vendas está nas categorias do dia a dia, o que mostra que esse público busca produtos essenciais.
+- O perfil de compra muda de acordo com o estado civil, então usar `CL_EC` com rótulo ajuda a interpretar melhor os dados.
+- Mulheres e homens têm padrões de compra diferentes, o que ajuda a pensar em campanhas mais específicas.
+- O volume de vendas varia ao longo da semana: dias úteis são mais fortes que fim de semana.
+
 ## Observações finais
 
 O objetivo aqui não é só gerar números, mas deixar os dados prontos para análise.
