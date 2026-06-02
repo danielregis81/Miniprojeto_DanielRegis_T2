@@ -148,7 +148,8 @@ As três categorias com maior volume de transações são: **Alimentos**, **Bebi
 
 ## 📌 Observações Finais
 
-O objetivo deste projeto não é apenas gerar números, mas preparar os dados para que a análise seja confiável. Quando a base está limpa e bem estruturada, as visualizações funcionam melhor e os resultados se tornam mais úteis para decisões de negócio.
+O objetivo deste projeto não é apenas gerar números, mas preparar os dados para que a análise seja confiável. Quando a base está limpa e bem estruturada, as visualizações funcionam melhor e os resultados se tornam mais úteis para decisões de negócio. 
+Um agradecimento especial à professora Amanda que tem sido uma ótima guia nessa nova jornada para todos os estudantes da turma T2
 
 ---
 
